@@ -17,6 +17,3 @@ A Java-based **Student Management System** demonstrating **OOP principles** such
 - **Java**
 - **Arrays (for student storage)**
 - **Object-Oriented Programming (OOP)**
-
-## 💻 How to Run:
-1. Clone this repository:  
